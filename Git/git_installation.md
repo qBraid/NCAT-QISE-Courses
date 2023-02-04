@@ -1,3 +1,9 @@
+# Accessing git on qBraid. 
+
+Git comes pre-installed on qBraid. You can manage your git repositories through the terminal or via the extension available on the left sidebar.
+
+If you want to use git on your local computer as well, follow the instructions below to install it your personal machine.
+
 # Git installation
 
 Downloads for each operating system are available on Git's website: https://git-scm.com/downloads. Select the appropriate version.
@@ -11,7 +17,8 @@ This should print something like:
 ```
 /usr/bin/git
 ```
-If you get a similar prompt, git is installed. Otherwise, download from the website.
+
+If you get a similar prompt, git is installed. Otherwise, download from the [website](https://git-scm.com/download/mac).
 
 ## Windows
 Opening the file should start the installation. Going with all the default options works just fine.
